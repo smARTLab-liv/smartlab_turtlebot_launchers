@@ -40,9 +40,9 @@
   <!-- Use test_depend for packages you need only for testing: -->
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>turtlebot_apps</build_depend>
+  <build_depend>turtlebot_teleop</build_depend>
   <build_depend>turtlebot_bringup</build_depend>
-  <run_depend>turtlebot_apps</run_depend>
+  <run_depend>turtlebot_teleop</run_depend>
   <run_depend>turtlebot_bringup</run_depend>
 
 
